@@ -32,7 +32,6 @@ class UserTest {
         assertTrue(user.isUsername("user01"));
         assertFalse(user.isUsername(""));
         assertFalse(user.isUsername("sun"));
-
     }
 
     @Test

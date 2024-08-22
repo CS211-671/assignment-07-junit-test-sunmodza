@@ -49,7 +49,7 @@
             <Font size="24.0" />
          </font>
       </Label>
-      <TextField fx:id="giveScoreTextField" layoutX="235.0" layoutY="251.0" prefHeight="45.0" prefWidth="123.0">
+      <TextField fx:id="scoreTextField" layoutX="235.0" layoutY="251.0" prefHeight="45.0" prefWidth="123.0">
          <font>
             <Font size="24.0" />
          </font>
